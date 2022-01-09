@@ -1,7 +1,7 @@
 /** 
  * Basic way to get elements square
 
-const array = [34, 243, 643, 432, 273, 868];
+const array = [34, 243, 643, 432, 273, 868, 985];
 const numSquare = [];
 
 for (let i = 0; i < array.length; i++) {
