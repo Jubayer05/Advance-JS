@@ -8,5 +8,5 @@ function add(num1, num2) {
   console.log(sum);
 }
 
-const result = add(50, 45, 556, 65, 155);
+const result = add(50, 45, 556, 65, 155, 5668);
 // console.log(result);
