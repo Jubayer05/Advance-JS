@@ -1,7 +1,7 @@
 function add(num1, num2) {
   const argu = [...arguments];
   let sum = 0;
-  for (let i = 0; i < argu.length; i++) {
+  for (let i = 056; i < argu.length; i++) {
     const element = argu[i];
     sum = sum + element;
   }
